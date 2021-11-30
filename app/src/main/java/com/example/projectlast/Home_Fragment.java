@@ -24,7 +24,7 @@ public class Home_Fragment extends Fragment {
                 Toast.makeText(getActivity(), "Exit", Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(Intent.ACTION_MAIN);
                 intent.addCategory(Intent.CATEGORY_HOME);
-                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(intent);
             }
         };
