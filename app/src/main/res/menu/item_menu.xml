@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/home_Fragment3"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home"/>
+
+    <item android:id="@+id/QR_Fragment2"
+        android:title="QR scan"
+        android:icon="@drawable/qr_code"/>
+
+    <item android:id="@+id/info_Fragment2"
+        android:title="Info"
+        android:icon="@drawable/info"/>
+</menu>
