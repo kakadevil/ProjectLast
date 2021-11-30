@@ -18,6 +18,7 @@ public class bottomZ extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bottom_z);
+
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottomNavView);
         NavController navController = Navigation.findNavController(this, R.id.navHostFragment);
         NavigationUI.setupWithNavController(bottomNavigationView,navController);

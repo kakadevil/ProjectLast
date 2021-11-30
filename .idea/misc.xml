@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/home.xml" value="0.2453125" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/ic_baseline_home.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/ic_baseline_person.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.146875" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/info.xml" value="0.2453125" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/item_selector.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/qr_code.xml" value="0.2453125" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/drawable/round_corner.xml" value="0.125" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_bottom.xml" value="0.264" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_bottom1.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_bottom2.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_bottom_i.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_bottom_x.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_bottom_z.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_forgot_password.xml" value="0.264" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_forgot_password1.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_function.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_info_product.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_profile.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_qr_scan.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_register.xml" value="0.2453125" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_sanpham1.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_shopping.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_web.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_webb.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_webview.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/activity_welcome.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_1.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_2.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_3.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_blank.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_first_.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_home.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_home_.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_info_.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_notification.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_q_r.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_q_r_.xml" value="0.2453125" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_second_.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/fragment_third_.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/order_item.xml" value="0.4" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/layout/res_detail2_item_layout.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/menu/bottom_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/B19DC/AndroidStudioProjects/ProjectLast/app/src/main/res/menu/item_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/FPT SHOP/Desktop/ProjectLast-master/app/src/main/res/layout/activity_bottom_z.xml" value="0.264" />
+        <entry key="..\:/Users/FPT SHOP/Desktop/ProjectLast-master/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/FPT SHOP/Desktop/ProjectLast-master/app/src/main/res/layout/activity_qr_scan.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/FPT SHOP/Desktop/ProjectLast-master/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/FPT SHOP/Desktop/ProjectLast-master/app/src/main/res/layout/activity_webb.xml" value="0.1875" />
+        <entry key="..\:/Users/FPT SHOP/Desktop/ProjectLast-master/app/src/main/res/layout/activity_welcome.xml" value="0.1875" />
+        <entry key="..\:/Users/FPT SHOP/Desktop/ProjectLast-master/app/src/main/res/layout/fragment_info_.xml" value="0.2" />
+        <entry key="..\:/Users/FPT SHOP/Desktop/ProjectLast-master/app/src/main/res/layout/fragment_q_r_.xml" value="0.19701086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
