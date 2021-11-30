@@ -4,14 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:backgroundTint="#000000"
     android:gravity="center_horizontal"
-    android:orientation="vertical"
     android:padding="16dp"
+    android:orientation="vertical"
     tools:context=".CreateQR">
 
     <EditText
-        android:id="@+id/et_input"
+        android:id="@+id/text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@android:drawable/editbox_background"
@@ -22,16 +21,25 @@
         android:textColorHint="#009688" />
 
     <Button
-        android:id="@+id/bt_generate"
+        android:id="@+id/generate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:text="Generate" />
+        android:layout_below="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:text="Create" />
+    <Button
+        android:id="@+id/download"
+        android:text="Download"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/generate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
     <ImageView
-        android:id="@+id/iv_output"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:adjustViewBounds="true"
-        android:scaleType="fitCenter" />
+        android:id="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
 </LinearLayout>
