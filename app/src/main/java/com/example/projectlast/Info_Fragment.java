@@ -1,5 +1,7 @@
 package com.example.projectlast;
 
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -47,6 +49,10 @@ public class Info_Fragment extends Fragment {
         logout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                SharedPreferences preferences = getActivity().getSharedPreferences("checkbox", Context.MODE_PRIVATE);
+                SharedPreferences.Editor editor = preferences.edit();
+                editor.putString("remember", "false");
+                editor.apply();
                 FirebaseAuth.getInstance().signOut();
                 startActivity(new Intent(getActivity(),MainActivity.class));
 
@@ -80,8 +86,6 @@ public class Info_Fragment extends Fragment {
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
                 Toast.makeText(getActivity(), "Something wrong happend!", Toast.LENGTH_LONG).show();
-
-
             }
         });
         return v;
