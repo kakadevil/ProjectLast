@@ -1,2 +1,4 @@
 # ProjectScan
-Accounts available: kakadevil1201@gmail.com - abcxyz
+Accounts available:
+Username: kakadevil1201@gmail.com
+Password: abcxyz
